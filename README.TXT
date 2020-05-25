@@ -1,5 +1,3 @@
-***
-June 2017
-Java Applet
-Grade 10 Programming School Project
-***
+# Grade 10 Programming School Project
+# June 2017
+# Java Applet
